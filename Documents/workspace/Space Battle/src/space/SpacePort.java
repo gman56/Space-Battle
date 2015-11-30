@@ -40,7 +40,6 @@ public class SpacePort extends Ship implements Runnable
 		
 		isFighter = false;
 		
-		isNuke = false;
 
 
 	    Color aColor = ColorMaker.makeColor(colorName); // “YELLOW”, “RED”, etc
