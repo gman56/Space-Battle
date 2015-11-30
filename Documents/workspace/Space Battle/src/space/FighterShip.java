@@ -58,7 +58,6 @@ public class FighterShip extends Ship implements Runnable
 		
 		isFighter = true;
 		
-		isNuke = false;
 
 		
 		SpaceController.addship(this);
