@@ -49,7 +49,6 @@ public class Missile extends Ship implements Runnable
 		
 		isFighter = false;
 		
-		isNuke = false;
 
 		
 		SpaceController.addship(this);
