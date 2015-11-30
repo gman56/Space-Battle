@@ -46,7 +46,6 @@ public class CargoShip extends Ship implements Runnable {
 			
 			isFighter = false;
 			
-			isNuke = false;
 
 
 		
